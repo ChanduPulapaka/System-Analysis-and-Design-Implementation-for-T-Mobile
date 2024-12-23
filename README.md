@@ -13,4 +13,5 @@ This repository contains deliverables and design documentation for the T-Mobile 
 
 **Project Highlights:**
 Created process flow diagrams and data models using Microsoft Visio.
+
 Analyzed system workflows and proposed optimizations with SQL Server.
